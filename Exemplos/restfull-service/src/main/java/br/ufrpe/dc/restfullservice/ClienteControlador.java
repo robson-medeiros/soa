@@ -67,7 +67,7 @@ public class ClienteControlador {
 	
 	}
 	
-	//POST /cliente
+	//POST /clientes
 	
 	@PostMapping("/clientes")
 	@ResponseStatus(HttpStatus.CREATED)
@@ -96,7 +96,7 @@ public class ClienteControlador {
 		
 	}
 	
-	// PUT /cliente
+	// PUT /clientes
 	
 	
 
